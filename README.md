@@ -7,6 +7,6 @@ Powered by the InventOne Microcontroller
 ## Libraries:
 
 #### #include <Drive.h>  
-//Include the Motor Shield Drive library
+// Imports the Motor Shield Drive library
 #### #include <HCSR04.h>  
-//Include the Ultrasonic Sensor library
+// Imports the Ultrasonic Sensor library
